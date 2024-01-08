@@ -1,4 +1,5 @@
-# Weather App
-# https://weather-app-cmkb.onrender.com
-![pic1](https://github.com/Liam-Piro/Weather-App/assets/109366637/6db965d4-98e9-4eae-99a4-c2820895e291)
-![pic2](https://github.com/Liam-Piro/Weather-App/assets/109366637/c1e96093-71ba-432c-9d49-620b35769e7a)
+## A Simple Weather App using the Open Weather Map API
+
+### Live demo:
+
+[![weather-app](https://github.com/MohamedAbirou/Weather-App/assets/109366637/3cf6b052-ca48-434b-88cd-ba984d15b421)](https://weather-app-cmkb.onrender.com/)
